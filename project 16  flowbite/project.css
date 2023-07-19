@@ -1,0 +1,132 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container{
+    width:1140px;
+    margin:0 auto;
+    padding:0 15px;
+}
+
+.tom{
+    background-color: #ffffff;
+
+
+}
+
+.tom h4{
+    margin:50px 0;
+    text-align: center;
+    font-size: 70px;
+
+}
+
+.tom p{
+     margin:20px 0 100px 0;
+     text-align: center;
+     font-size: 30px;
+     font-weight: 300;
+     color:#808080;
+}
+
+.row{
+    overflow: auto;
+    margin: 0 -15px;
+}
+
+.box{
+    border:#ccc8c8 solid 2px;
+    border-radius: 10px;
+    text-align: center;
+    
+    
+}
+
+.column-1{
+    width:25%;
+    float: left;
+    padding: 0 15px;
+    margin-bottom:30px ;
+}
+
+.box i {
+    font-size: 70px;
+    padding:50px 0 10px 0;
+}
+.i1{
+    color: rgb(156, 111, 111);
+}
+
+.i2 {
+    color: rgb(12, 242, 146);
+}
+
+.i3 {
+    color: rgb(207, 171, 234);
+}
+
+.i4 {
+    color: rgb(101, 59, 139);
+}
+.i5{
+    color: rgb(216, 121, 62);
+}
+.i6 {
+    color: rgb(159, 197, 83);
+}
+.i7 {
+    color: rgb(183, 110, 111);
+}
+.i8 {
+    color: rgb(175, 89, 166);
+}
+.i9 {
+    color: rgb(85, 164, 98);
+}
+.i10 {
+    color: rgb(71, 180, 202);
+}
+.i11 {
+    color: rgb(174, 105, 134);
+}
+.i12 {
+    color: rgb(145, 90, 154);
+}
+.i13{
+    color: rgb(104, 140, 202);
+}
+.i14 {
+    color: rgb(224, 159, 106);
+}
+.i15 {
+    color: rgb(190, 171, 108);
+}
+.i16{
+    color: rgb(5, 64, 40);
+}
+.i17 {
+    color: rgb(77, 145, 117);
+}
+.i18 {
+    color: rgb(149, 163, 99);
+}
+
+
+.box h4{
+    font-size: 25px;
+    padding:10px 0 40px 0;
+    font-weight: 400;
+}
+
+.sec{
+    padding:100px 0;
+    text-align: center;
+background-color:rgb(249,250,251);
+}
+
+.text{
+    color: #ff0000;
+}

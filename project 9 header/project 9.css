@@ -1,0 +1,54 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: rgb(198, 198, 78);
+}
+
+.container{
+        width: 1140px;
+        margin: 0 auto;
+        padding: 0 15px;
+}
+
+.nav{
+    overflow: auto;
+}
+
+ul, li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo{
+    color:#251e1e;
+    padding:20px 15px;
+    float: left;
+    font-size: 20px;
+}
+
+
+.main{
+    float: right;
+}
+
+.tom{
+    display: inline-block;
+}
+
+.text {
+    display: inline-block;
+    padding: 20px 15px;
+    color: #251e1e;
+    font-size: 20px;
+}
+
+
+
+

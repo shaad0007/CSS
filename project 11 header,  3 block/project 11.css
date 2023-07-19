@@ -1,0 +1,49 @@
+*{
+    Padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+}
+
+.header{
+    background-color:#000000;
+}
+
+.container{
+    width:1140px;
+    margin:0 auto;
+    padding:0 15px;
+}
+
+.nav{
+    overflow:auto;
+}
+
+.logo{
+    color:#ffffff;
+    float:left;
+    padding:15px 20px;
+    font-size:20px;
+}
+
+.main{
+    float:right;
+}
+
+.text{
+    color:#ffffff;
+    padding: 15px 20px;
+    font-size: 20px;
+}
+
+ul li{
+    list-style:none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.tom{
+    display:inline-block;
+}
+

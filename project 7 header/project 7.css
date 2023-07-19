@@ -1,0 +1,58 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing:border-box;  
+}
+
+.header{
+    background-color:#0f0f0f;
+}
+
+.container{
+    width:1140px;
+    margin:0 auto;
+    padding:0 15px;
+}
+
+nav{
+    overflow:auto;
+}
+
+.logo{
+    color:#ffffff;
+    float: left;
+    padding:15px 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul, li{
+    list-style:none ;
+}
+
+.text{
+    color:#ffffff;
+}
+
+.main{
+    float: right;  
+}
+
+.tom{
+    display: inline-block;
+    }
+
+.text{
+    padding:15px 20px;
+     display: inline-block;
+}
+
+
+
+
+
+
+
+

@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+@media (min-width:768px) {
+    .container {
+      width: 720px;
+    }
+  }
+  @media (min-width:992px) {
+    .container {
+      width: 920px;
+    }
+  }
+  @media (min-width:1200px) {
+    .container {
+      width:1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+a{
+    text-decoration: none;
+}
+.section-1 {
+  background-color: #f9efef;
+  padding: 268px 0;
+  position: relative;
+
+}
+.section-1::after {
+  background-image: url("../images/Group.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 120px 0;
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.text-main {
+  background-color: #ffffff;
+  margin: 0 auto;
+  width: 30%;
+  padding: 20px 15px;
+  border-radius: 10px;
+}
+.section-1 .text-main h1 {
+  padding: 10px 0;
+  font-size: 24px;
+  font-weight: 700;
+}
+.section-1 .text-main p {
+  color: #b9b9b9;
+  font-size: 12px;
+  padding-bottom: 20px;
+}
+.section-1 .text-main span{
+    color: #b9b9b9;
+    font-size: 12px;
+    display: inline-block;
+    margin: 13px 0;
+}
+.section-1 .text-main .input {
+  padding: 10px 0px 10px 24px;
+  outline: none;
+  margin: 10px 0;
+  width: 100%;
+  background-color: #f6f6f6;
+  border:none;
+  border-radius: 5px;
+}
+.section-1 .text-main .cheakbox{
+    vertical-align: middle;
+    
+}
+.button-btn{
+    display: inline-block;
+    background-color: #EA5F76;
+    padding: 11px 0;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: 700;
+    width: 100%;
+    text-align: center;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+.position{
+    position: relative;
+}
+.position-2{
+    position: relative;
+}
+.position::after{
+    content: "";
+    background-image: url("../images/briefcase.svg");
+    background-size: cover;
+    padding: 10px;
+    position: absolute;
+    bottom: 20px;
+    left: 5px;
+}
+.position-2::after{
+  content: "";
+  background-image: url("../images/lock.svg");
+  background-size: cover;
+  padding: 10px;
+  position: absolute;
+  bottom: 20px;
+  left: 5px;
+}
+  }
+

@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul, li{
+    list-style: none;
+}
+
+nav{
+    overflow: auto;
+}
+
+.header{
+    background-color: #8a2be2;
+}
+
+.container{
+    width:1140px;
+    margin:0 auto;
+    padding:0 15px;
+}
+
+.row{
+    overflow:auto;
+    margin:0 -15px;
+}
+
+.logo{
+    float: left;
+    padding:30px;
+    color: #ffc0cb;
+    font-size: 30px;
+
+}
+
+.text{
+    color: #000000;
+}
+
+.manubar{
+    float: right;
+}
+
+.manubar li{
+    display: inline-block;
+   
+}
+
+.manubar li a{
+    display: inline-block;
+    padding:40px;
+}
+
+.fool{
+    color:#69d21e;
+    
+}
+
+.section {
+    padding: 100px 0;
+}
+
+.nine{
+    
+}
+
+
+

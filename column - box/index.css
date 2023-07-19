@@ -1,0 +1,53 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.section{
+    padding:100px 0;
+}
+
+.container{
+    width:1140px;
+    margin:0 auto;
+    padding:0 15px;
+}
+
+.row{
+    overflow: auto;
+    margin:0 -15px;
+}
+
+.col-10{
+    width:83.33%;
+    float: left;
+    padding: 0 15px;
+   
+    
+}
+
+.col-2{
+    width:16.66%;
+    float: left;
+    padding: 0 15px;
+       
+}
+
+img{
+    width: 100%;
+}
+
+
+
+.tom{
+    background-color: #0000ff;
+   width:100%;
+   padding:553px 0;
+   text-align: center;
+   
+}
+
+
+
+

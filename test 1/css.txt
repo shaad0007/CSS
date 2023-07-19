@@ -1,0 +1,169 @@
+Ans 1 = Hyper Text Markup Language.
+
+
+
+Ans 2 = HTML is used to create web pages and it's a simpe body structure of any web page.
+
+
+
+Ans 3 = Starting Tag + Contant + Ending Tag is known as a element.
+
+
+
+Ans 4 = tag is like a keyword which is used in HTML. for example <p>, <pre>, <ul>, <ol> and <dl>.
+
+
+
+Ans 5 = (1) Tag = tag is like a keyword which is used in HTML. for example <p>, <pre>, <ul>, <ol> and <dl>.
+        (2) Element = element shows the full information and whole structure of tag like Opening tag + Contant + Closing tag.
+            For example = <p>text</p>, <pre>text</pre>.
+
+
+
+Ans 6 = There are six type of heading in HTML for example h1, h2, h3, h4, h5 and h6.
+
+
+
+Ans 7 = <br> tag is used to break line.
+
+
+
+Ans 8 = <strong> tag is used to show important text in HTML.
+
+ 
+
+Ans 9 = target blank is used to open link in new tab.
+
+
+
+Ans 10 = Order list is used to show number list in HtML.
+
+
+
+Ans 11 = input type="checkbox" is used to show checkbox in HTML.
+
+
+
+Ans 12 = <select> and <select multiple> is used to create dropdown list in HTML.
+
+
+
+Ans 13 = <textarea placeholder="comment here" cols="70" rows="40">
+
+
+
+Ans 14 = .html extention is used to save file in HTML. 
+
+
+
+Ans 15 = <!--  --> it is used to comment in HTML.
+
+
+
+Ans 16 = <title></title> title tag define the title in HTML.
+
+
+
+Ans 17 = nav tag is used to show navigation bar.
+
+
+
+Ans 18 = header tag is used to show header in web page.
+
+
+
+Ans 19 = 5 empty tag in HTML: br, hr, input, meta and li.
+
+
+
+Ans 20 = a tag is used to show link  button in html.
+
+
+
+Ans 21 = There are two tags which shows italic text <i> tag and <em> tag.
+
+
+         
+Ans 22 = <ins> and <u> tag is used to underline text in HTML.
+
+
+
+Ans 23 = 10 formating tag name : sub, sup, ins, u, em, i, strong, b, del and mark.
+
+
+
+Ans 24 = <hr> tag is used to show horizontal line in HTML.
+
+
+
+Ans 25 = Width and height attribute is used to change size of image in HTML.
+
+
+
+Ans 26 = <marquee> tag is used to show scrolling text in HTML.
+
+
+
+Ans 27 = Attributes are used to change behaviour of any tag and it appears in starting tag.
+
+
+
+Ans 28 = Form tag is a HTML tag which is used to show border on input aur table .
+
+
+
+Ans 29 = DOCTYPE is a structural part of HTML and it shows the present(5th) version of HTML.
+
+ 
+
+Ans 30 = no, hyper link can be applied on text as well as image or any other html property.s
+
+
+Ans 31 = (1) Cellspacing = cellspacing is used for giving space in Table border.
+         (2) Cellpadind = dont know..
+
+
+
+Ans 32 = (1) Colspan = colspan is used to manage column.
+         (2) Rowspan = rowspan is used to manage rows.
+
+
+
+Ans 33 = pre tag is used to show exact written text in HTML.
+
+
+
+Ans 34 = Span tag is used to change color in html.
+
+
+
+Ans 35 = There are two method to show button in html.
+         (1) input type="button"
+         (2) button type="button"
+
+
+
+Ans 36 = <tr> = Table row is used to show header information.
+         <td> = Data cell is used to show data information.
+
+
+
+Ans 37 = marquee tag contain java script code in HTML.
+
+
+
+Ans 38 = 5th version of HTML.
+
+
+
+Ans 39 = section tag = section tag is only used when there is a heading.
+         div tag = div tag is used in any kind of paragraph.
+
+
+
+Ans 40 = There are three types of css used in html:
+         (1) Inline CSS = Inline CSS is used in starting tag.
+         (2) Internal CSS = Internal CSS is used in head.
+         (3) External CSS = external CSS is used for merging path.
+
+

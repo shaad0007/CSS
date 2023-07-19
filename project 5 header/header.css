@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+.header {
+    background-color: #000000;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.text-white {
+    color: #ffffff;
+}
+
+.logo {
+    float: left;
+    padding: 20px 15px;
+}
+
+.menubar {
+    float: right;
+}
+
+nav {
+    overflow: auto;
+}
+
+.menubar li {
+    display: inline-block;
+}
+
+.menubar li a {
+    display: inline-block;
+    padding: 20px 15px;
+}

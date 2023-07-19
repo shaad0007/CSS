@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.box {
+    background-color: #ffffff;
+    margin: 0 auto;
+    width: 30%;
+    padding: 20px 15px;
+    border-radius: 10px;
+}
+
+@media (min-width:768px) {
+    .container {
+        width: 720px;
+    }
+}
+
+@media (min-width:992px) {
+    .container {
+        width: 920px;
+    }
+}
+
+@media (min-width:1200px) {
+    .container {
+        width: 1140px;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
+}
+
+    a {
+        text-decoration: none;
+    }
+
+    .section-1 {
+        background-color: #f9efef;
+        padding: 268px 0;
+        position: relative;
+
+    }
+
+    .section-1::after {
+        background-image: url("../img/Group.svg");
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 120px 0;
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+    }
+
+    
+
+    .section-1 .box h1 {
+        padding: 10px 0;
+        font-size: 24px;
+        font-weight: 700;
+    }
+
+    .section-1 .box p {
+        color: #b9b9b9;
+        font-size: 12px;
+        padding-bottom: 20px;
+    }
+
+    .section-1 .box span {
+        color: #b9b9b9;
+        font-size: 12px;
+        display: inline-block;
+        margin: 13px 0;
+    }
+
+    .section-1 .box .class {
+        padding: 10px 0px 10px 24px;
+        outline: none;
+        margin: 10px 0;
+        width: 100%;
+        background-color: #f6f6f6;
+        border: none;
+        border-radius: 5px;
+    }
+
+    .section-1 .box .checkbox {
+        vertical-align: middle;
+
+    }
+
+    .sign {
+        display: inline-block;
+        background-color: #EA5F76;
+        padding: 11px 0;
+        color: #FFFFFF;
+        font-size: 12px;
+        font-weight: 700;
+        width: 100%;
+        text-align: center;
+        margin: 10px 0;
+        border-radius: 5px;
+    }
+
+    .first {
+        position: relative;
+    }
+
+    .second {
+        position: relative;
+    }
+
+    .first{
+position: relative;
+    }
+
+    .second{
+position: relative;
+    }
+
+    icon{
+        position: absolute;
+        left: ;
+        top: ;
+    }

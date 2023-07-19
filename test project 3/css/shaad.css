@@ -1,0 +1,196 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header {
+    background-color: white;
+    position:fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 99;
+    width: 100%;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.row {
+    overflow: auto;
+    margin: 0 -15px;
+}
+
+.contact {
+    border: 3px solid #000000;
+    border-radius: 8px;
+    float: right;
+    padding: 10px 20px;
+    margin: 38px 15px;
+    font-weight: 600;
+    color: #000000;
+}
+
+.manubar {
+    float: left;
+}
+
+.manubar li {
+    display: inline-block;
+}
+
+.manubar li a {
+    display: inline-block;
+    padding: 20px 15px;
+    margin: 30px 15px;
+
+
+
+}
+
+.home {
+    font-weight: 600;
+    color: #000000;
+}
+
+.tom {
+    color: #808080;
+    font-weight: 100;
+}
+
+.section {
+    padding: 100px 0;
+}
+
+.col-5 {
+    width: 41.66%;
+    float: left;
+    padding:0 15px;
+}
+
+.col-7 {
+    width: 58.33%;
+    float: right;
+}
+
+.ticket {
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #000000;
+    padding: 10px 20px;
+    margin-top: 15px;
+    font-weight: 600;
+    color: #ffffff;
+}
+
+.head {
+    font-size: 69px;
+    margin: 0px 0 20px;
+    font-weight: 600;
+    padding-right: 53px;
+}
+
+.p2 {
+    font-size: 15px;
+    margin-bottom: 30px;
+    padding-right: ;
+}
+
+.box img {
+    width: 100%;
+}
+
+.box a {
+    display: inline-block;
+}
+
+.section-2 {
+    background-color: #000000;
+    padding: 100px 0;
+}
+
+.col-12 {
+    width: 100%;
+}
+
+.box-1 .travel {
+    border: 4px solid #ffffff;
+    border-radius: 8px;
+    background-color: #000000;
+    padding: 10px 20px;
+    margin: 13px 15px;
+    font-weight: 600;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 25px;
+    
+
+}
+
+.box-1 h4 {
+    color: #ffffff;
+    font-size: 60px;
+    text-align: center;
+    margin: 0 auto;
+    width: 463px;
+    padding-bottom: 30px;
+    
+
+}
+
+.box-1 p {
+    color: #ffffff;
+    font-size: 17px;
+    margin:0 auto;
+    width:500px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.cat {
+    text-align: center;
+}
+
+.section-3 {
+    padding: 100px 0;
+}
+
+.col-4 {
+    width: 33.33%;
+    float: left;
+}
+
+.box-2 h4{
+    margin: 20px 0;
+    font-size: 38px;
+    padding-right: 20px;
+}
+
+.box-2 {
+    padding:0 20px;
+}
+
+.box-2 img{
+    width: 100%;
+}
+
+.t2{
+    border: #000000 2px solid;
+    width: 60px;
+    display: inline-block;
+    margin-top: 30px;
+}

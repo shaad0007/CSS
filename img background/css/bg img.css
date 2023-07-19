@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.sec{
+    padding: 100px 0;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.hero{
+    background-image: url("../img/WhatsApp\ Image\ 2023-04-04\ at\ 09.44.41.jpg");
+    padding: 300px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:top center;
+    position: relative;
+    background-attachment: fixed;
+}
+.zero {
+    background-image: url("../img/WhatsApp\ Image\ 2023-04-04\ at\ 09.44.41.jpg");
+    padding: 100px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    position: relative;
+    margin-top: 40px;
+}
+
+.hero::after{
+    position: absolute;
+    inset: 0;
+    content: "";
+    background-color: rgba(8, 8, 8, 0.5);
+}
+
+.zero::after {
+    position: absolute;
+    inset: 0;
+    content: "";
+    background-color: rgba(8, 8, 8, 0.5);
+}
+
+.tom{
+    font-size: 20px;
+    position: relative;
+        z-index: 99;
+        color: rgba(246, 242, 242, 0.5);
+        text-align: center;
+}
+
+.heading{
+    font-size: 30px;
+    position: relative;
+    z-index: 99;
+    color: rgba(246, 242, 242, 0.5);
+    text-align: center;
+}
+
+
+
